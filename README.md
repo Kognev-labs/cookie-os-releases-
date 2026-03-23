@@ -11,8 +11,8 @@ Download the latest version from the [Releases](https://github.com/Kognev-labs/c
 | Platform | Download |
 |----------|----------|
 | macOS Apple Silicon (M1/M2/M3/M4) | `Cookie OS-1.0.0-arm64.dmg` |
-| macOS Intel | `Cookie OS-1.0.0-x64.dmg` |
-| Windows (x64 + ARM64) | `Cookie OS Setup 1.0.0.exe` |
+| macOS Intel | `Cookie OS-1.0.0.dmg` |
+| Windows (x64) | `Cookie OS Setup 1.0.0.exe` |
 
 ## System Requirements
 

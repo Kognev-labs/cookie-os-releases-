@@ -4,9 +4,7 @@ All notable changes to Cookie OS will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
-## [Unreleased]
-
-## [1.0.0] - 2026-03-17
+## [1.0.0] - 2026-03-23
 
 ### Added
 - AI agent chat with streaming responses and session management
@@ -29,9 +27,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 ### Platforms
 - macOS Apple Silicon (arm64) — signed and notarized
 - macOS Intel (x64) — signed and notarized
-- Windows (x64 + arm64) — NSIS installer
+- Windows (x64) — NSIS installer
 
 ### Fixed
+- Boot splash error handling with retry and skip options for returning users
+- Broken memory API routes in core skills
+- Chat UI fixes and streaming improvements
+- Live progress bar, rotating security facts, and friendly errors during onboarding
+- Carriage return handling in progress output
+- Correct binary name in container runtime error messages
+- Automatic old image cleanup during container updates
 - Tool-only agent responses no longer invisible in chat
 - Panel content overflow resolved with proper CSS constraints
 - Skills store font sizes increased for readability
