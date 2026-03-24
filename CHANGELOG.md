@@ -4,6 +4,15 @@ All notable changes to Cookie OS will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.1] - 2026-03-24
+
+### Changed
+- Refactored onboarding flow into modular folder structure for maintainability
+
+### Platforms
+- macOS Apple Silicon (arm64) — signed
+- macOS Intel (x64) — signed
+
 ## [1.0.0] - 2026-03-23
 
 ### Added
