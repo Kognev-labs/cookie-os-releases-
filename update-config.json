@@ -1,1 +1,1 @@
-{"forceCheckAfter":"2026-03-25T15:30:00Z","minVersion":"1.0.2","message":"Critical runtime detection fixes and remote update support","urgency":"normal"}
+{"forceCheckAfter":"2026-05-09T16:07:42Z","minVersion":"1.1.2","message":"Restored signed + notarized auto-update — fixes broken 1.1.0/1.1.1 update path","urgency":"normal"}
